@@ -26,7 +26,7 @@ questions = [
     {
         "question": "What is the name of the longest river in the world?",
         "choices": ["A) Nile", "B) Amazon", "C) Yangtze", "D) Mississippi"],
-        "answer": "B"
+        "answer": "A"
     }
 ]
 
